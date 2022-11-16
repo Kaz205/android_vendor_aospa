@@ -257,3 +257,8 @@ PRODUCT_PACKAGES += \
     libwpa_client
 
 PRODUCT_VENDOR_MOVE_ENABLED := true
+
+# Flags
+ifeq ($(TARGET_BUILD_VARIANT), user)
+    PRODUCT_ART_TARGET_INCLUDE_DEBUG_BUILD := false
+endif
