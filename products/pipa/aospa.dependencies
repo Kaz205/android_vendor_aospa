@@ -41,5 +41,12 @@
         "target_path": "vendor/xiaomi/pipa",
         "revision": "topaz",
         "clone-depth": "1"
+    },
+    {
+        "remote": "gitlab",
+        "repository": "YumeMichi/proprietary_vendor_xiaomi_firmware",
+        "target_path": "vendor/xiaomi/firmware",
+        "revision": "topaz",
+        "clone-depth": "1"
     }
 ]
