@@ -32,10 +32,10 @@
         "revision":     "refs/tags/android-14.0.0_r12"
     },
     {
-        "remote":       "aosp",
-        "repository":   "device/google/gs-common",
+        "remote":       "github",
+        "repository":   "Kaz205/device_google_gs-common",
         "target_path":  "device/google/gs-common",
-        "revision":     "refs/tags/android-14.0.0_r12"
+        "revision":     "uvite"
     },
     {
         "remote":       "github",
