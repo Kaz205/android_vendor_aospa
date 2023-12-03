@@ -40,6 +40,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := google/shiba/shiba:14/UD1A.231105.004/11010374:user/release-keys
 
-$(call inherit-product, vendor/google_devices/shiba/device-partial.mk)
+$(call inherit-product, vendor/google_devices/shiba/shiba.mk)
 
 endif
