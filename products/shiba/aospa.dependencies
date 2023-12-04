@@ -26,10 +26,10 @@
         "revision":     "refs/tags/android-14.0.0_r12"
     },
     {
-        "remote":       "aosp",
-        "repository":   "platform/hardware/google/pixel",
+        "remote":       "github",
+        "repository":   "Kaz205/hardware_google_pixel",
         "target_path":  "hardware/google/pixel",
-        "revision":     "refs/tags/android-14.0.0_r12"
+        "revision":     "uvite"
     },
     {
         "remote":       "github",
