@@ -48,5 +48,12 @@
         "target_path": "vendor/xiaomi/firmware",
         "revision": "topaz",
         "clone-depth": "1"
+    },
+    {
+        "remote": "github",
+        "repository": "Kaz205/android_frameworks_base_aospa",
+        "target_path": "frameworks/base",
+        "revision": "topaz",
+        "clone-depth": "1"
     }
 ]
