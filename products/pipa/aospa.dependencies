@@ -33,7 +33,7 @@
         "remote": "aospa",
         "repository": "YumeMichi/kernel_xiaomi_pipa",
         "target_path": "kernel/msm-4.19",
-        "revision": "topaz"
+        "revision": "master"
     },
     {
         "remote": "aospa",
