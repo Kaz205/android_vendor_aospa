@@ -54,6 +54,11 @@
         "repository": "Kaz205/android_frameworks_base_aospa",
         "target_path": "frameworks/base",
         "revision": "topaz",
-        "clone-depth": "1"
+    },
+    {
+        "remote": "github",
+        "repository": "arter97/jemalloc",
+        "target_path": "external/jemalloc_new",
+        "revision": "a14",
     }
 ]
