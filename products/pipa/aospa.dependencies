@@ -41,12 +41,5 @@
         "target_path": "vendor/xiaomi/pipa",
         "revision": "uvite",
         "clone-depth": "1"
-    },
-    {
-        "remote": "gitlab",
-        "repository": "YumeMichi/proprietary_vendor_xiaomi_firmware",
-        "target_path": "vendor/xiaomi/firmware",
-        "revision": "uvite",
-        "clone-depth": "1"
     }
 ]
