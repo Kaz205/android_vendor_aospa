@@ -1,7 +1,7 @@
 [
     {
-        "remote": "aospa",
-        "repository": "YumeMichi/device_xiaomi_pipa",
+        "remote": "github",
+        "repository": "Kaz205/device_xiaomi_pipa",
         "target_path": "device/xiaomi/pipa",
         "revision": "uvite"
     },
